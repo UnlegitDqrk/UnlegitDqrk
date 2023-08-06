@@ -78,7 +78,7 @@
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133465-885d1bb8-fdde-4829-ab75-82efdeac75cc.png" alt="VSCode-icon" height="32" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img style="margin: 10px" src="Assets/Icons/JetBrains-icon.png" alt="Jetbrains-icon.png" height="32" title="JetBrains Produkte"/>
+    <img style="margin: 10px" src="Assets/Icons/Jetbrains-icon.png" alt="Jetbrains-icon" height="32" title="JetBrains Produkte"/>
   </a>
 </div>
 
