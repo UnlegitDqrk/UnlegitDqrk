@@ -44,7 +44,7 @@
 <div align="left">
  
   🎮 `Games` • 📚 `Lernen` • 💻 `Programmieren` • 🏦 `Politik` \
-  &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Fahrradfahren` • 🎧 `Musik``
+  &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🚲 `Fahrradfahren` • 🎧 `Musik`
 
 </div>
 
