@@ -69,7 +69,7 @@
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133098-27a85af0-e0bd-439c-b2d0-fec1efd95243.png" alt="CSharp-icon" height="32" title="CSharp"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143914-e283c629-2fbd-4d19-8106-d0a2462963e8.png" alt="RLanguage-icon" height="35" title="Java"/>
+    <img style="margin: 10px" src="Assets/Icons/Java-icon.png" alt="JavaLanguage-icon" height="35" title="Java"/>
   </a>&nbsp;&nbsp;
   <a href="https://visualstudio.microsoft.com/" target="_blank">
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133401-cfbd804b-0c35-43a7-bfdc-e63572233f19.png" alt="VisualStudio-icon" height="31" title="Visual Studio"/>
@@ -78,7 +78,7 @@
     <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232133465-885d1bb8-fdde-4829-ab75-82efdeac75cc.png" alt="VSCode-icon" height="32" title="VSCode"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img style="margin: 10px" src="https://user-images.githubusercontent.com/76459155/232143968-a7c2c925-7662-45a9-99ad-4b956bc3640b.png" alt="RStudio-icon" height="32" title="JetBrains Produkte"/>
+    <img style="margin: 10px" src="Assets/Icons/JetBrain-icon.png" alt="JetBrains-icon" height="32" title="JetBrains Produkte"/>
   </a>
 </div>
 
