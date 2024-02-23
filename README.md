@@ -43,8 +43,7 @@
 
 <div align="left">
  
-  🎮 `Games` • 💻 `Programmieren` • 🏦 `Politik` \
-  &#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🎧 `Musik`
+  🎮 `Games` • 💻 `Programmieren` • 🏦 `Politik` • 🎧 `Musik`
 
 </div>
 
