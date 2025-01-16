@@ -134,7 +134,7 @@
 
 <div align="center">
   <a href="https://github.com/UnlegitDqrk/">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnlegitDqrk&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="JuletopiStreak-stats" title="UnlegitDqrk's Streak Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UnlegitDqrk&theme=dark&ring=e73737&currStreakNum=ffffff&fire=eaa532&currStreakLabel=eaa532&hide_border=true&background=0E1118" width="540" alt="UnlegitDqrkStreak-stats" title="UnlegitDqrk's Streak Stats">
   </a>
 </div>
 
