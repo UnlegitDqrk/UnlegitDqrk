@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This GitHub-Site is not active anymore! Please visit me on omy own Repositoryserver [https://repo.unlegitdqrk.dev](https://unlegitdqrk.dev/)
+
 <!--
 ❗ ➤ REFERENCES USED IN THIS REPOSITORY:
 🔗 • https://github.com/kyechan99/capsule-render
